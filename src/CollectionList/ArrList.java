@@ -14,6 +14,8 @@ public class ArrList {//is from list interface
         arr.add(23);
         arr.add(3);
         arr.add(3);
+        arr.add(6);
+        arr.add(7);
 
         System.out.println(arr.size());
 //    for( int i=0;i<arr.size();i++) {
