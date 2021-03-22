@@ -11,6 +11,7 @@ public class TreeSetConcept {
         ts.add('b');//3
         ts.add('c');//4
         ts.add('f');//5
+        ts.add('j');//6
         for(Character cr:ts){
             System.out.println(cr);
         }

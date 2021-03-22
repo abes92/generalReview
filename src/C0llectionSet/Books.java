@@ -1,5 +1,7 @@
 package C0llectionSet;
-
+/*
+some practice about the constructor
+ */
 public class Books {
     int id;
     String name,author,publisher;
