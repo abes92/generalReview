@@ -11,6 +11,8 @@ public class treeMap {
         tmp.put("sedik","Taieb");
         tmp.put("hamza","Taieb");
         tmp.put("hacen","ferhat");
+        tmp.put("amar","rezaoui");
+        tmp.put("iddir","tayeb");
         System.out.println(tmp.size());
         System.out.println(tmp);
         tmp.forEach((k,v)->System.out.println(k+" "+v));
